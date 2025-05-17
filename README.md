@@ -1,12 +1,7 @@
 # Bad Apple Terminal Tool
 
-Have you ever wanted *Bad Apple* to run right in your terminal?  
+Have you ever wanted Bad Apple to run right in your terminal?  
 No? Oh well, now you can!
-
-## You might ask...
-
-What kind of madman would create such a monstrosity!?  
-Me. I-I did that.
 
 ## Installation
 
